@@ -1,0 +1,19 @@
+losowanie cząsteczki
+- nie moze być na sieci / na węźle ?
+- musi być z małego promienia
+
+dodanie do sieci:
+- musi być w pobliżu sieci 
+- musi być n-tą cząsteczką w tym punkcie 
+
+ruch:
+- do punktu który jest pusty
+
+zabijanie cząsteczki:
+- wyszła za sieć
+- 
+
+
+zwykła sieć
+limit 10 i 20
+prawdopodobieństwo 1/2 i 1/4 i 1/10
